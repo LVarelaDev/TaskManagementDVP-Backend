@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MEcRXmhRJ6HyPMgGe1w6KK860RlD2XEAMJS1ZUbpAGJw09JtcnHa6Dl9XLAoHiwgtjT81oAd2lINl/gNRjsDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elvar\\source\\repos\\TaskManagement.API\\TaskManagement.Business\\TaskManagement.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elvar\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\elvar\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Business.deps.json
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Business.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Business.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.AssemblyInfoInputs.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.AssemblyInfo.cs
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\refint\TaskManagement.Business.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\ref\TaskManagement.Business.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.csproj.AssemblyReference.cache

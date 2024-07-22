@@ -1,0 +1,17 @@
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\bin\Debug\net8.0\TaskManagement.DataAccess.deps.json
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\bin\Debug\net8.0\TaskManagement.DataAccess.runtimeconfig.json
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\bin\Debug\net8.0\TaskManagement.DataAccess.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\bin\Debug\net8.0\TaskManagement.DataAccess.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\bin\Debug\net8.0\TaskManagement.Business.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\bin\Debug\net8.0\TaskManagement.Business.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.AssemblyInfo.cs
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskMana.FD525390.Up2Date
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\refint\TaskManagement.DataAccess.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\TaskManagement.DataAccess.genruntimeconfig.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.DataAccess\obj\Debug\net8.0\ref\TaskManagement.DataAccess.dll

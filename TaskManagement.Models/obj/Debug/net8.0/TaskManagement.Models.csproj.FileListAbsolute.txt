@@ -1,0 +1,17 @@
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.Models.deps.json
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.Models.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.Models.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.AssemblyInfoInputs.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.AssemblyInfo.cs
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\refint\TaskManagement.Models.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\ref\TaskManagement.Models.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.Business.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.DataAccess.dll
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.DataAccess.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\bin\Debug\net8.0\TaskManagement.Business.pdb
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskManagement.Models.csproj.AssemblyReference.cache
+C:\Users\elvar\source\repos\TaskManagement.API\TaskManagement.Models\obj\Debug\net8.0\TaskMana.C88BD617.Up2Date
